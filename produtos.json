@@ -1,0 +1,54 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "display_name": "Coletor De Pó Ciclone Separador",
+            "description": "Separador de pó ciclone é possível usar em diversas situações, tais como, sistema de coleta de pó em marcenarias, serralherias, lava jato, centrais de limpezas, e outros segmentos de necessitem de coleta de pó ou partículas, podendo também ser usado em ferramentas como, serra circular, serra de bancada, esquadrejadeira, CNC, tupia, lixadeira, esmeriladeiras, plaina ou desengrosso e demais equipamentos.",
+            "traits": [
+                "Fabricação Brasileira.",
+                "Confeccionado em chapas de ferro.",
+                "Aumentar a vida útil do seu coletor de pó e filtro.",
+                "Deixar sua oficina mais limpa.",
+                "Aumenta a eficiência do seu coletor de pó com o separador de pó ciclone.",
+                "Fácil instalação.",
+                "Não necessita manutenção",
+                "Separa desde a poeira mais fina a pequenos objetos como parafusos e pregos."
+            ],
+            "sizes": [
+                {
+                    "size": 100,
+                    "images": [
+                        "main",
+                        "bg_1",
+                        "bg_2",
+                        "spec_drawn",
+                        "compare"
+                    ],
+                    "specs": "Dados Técnicos\n Medidas:\n -A:68cm\n -L:35cm\n -C:40cm\n -Peso: 10kg\n -Eficiência: 98%\n -Conexão de 100mm, (compatível com tubos de PVC de 100mm)\n -Fixação por 4 parafusos de 10mm(incluso)\n -Fabricado em Chapa de ferro de 0,9mm" 
+                },
+                {
+                    "size": 75, //mm
+                    "images": [
+                        "main",
+                        "bg_1",
+                        "bg_2",
+                        "spec_drawn",
+                        "compare"
+                    ],
+                    "specs": "Dados Técnicos\n Medidas:\n -A:61cm\n -L:26cm\n -C:36cm\n -Peso: 7kg\n -Eficiência: 98%\n -Conexão de 75mm, (compatível com tubos de PVC de 75mm)\n -Fixação por 4 parafusos de 10mm(incluso)\n -Fabricado em Chapa de ferro de 0,9mm"
+                },
+                {
+                    "size": 50,
+                    "images": [
+                        "main",
+                        "bg_1",
+                        "bg_2",
+                        "spec_drawn",
+                        "compare"
+                    ],
+                    "specs":"Dados Técnicos\n Medidas:\n -A:51cm\n -L:20cm\n -C:27cm\n -Peso: 5kg\n -Eficiência: 98%\n -Conexão de 50mm, (compatível com tubos de PVC de 50mm)\n -Fixação por 4 parafusos de 8mm(incluso)\n -Fabricado em Chapa de ferro de 0,9mm" 
+                }
+            ]
+        }
+    ]
+}
