@@ -27,7 +27,7 @@
                     "specs": "Dados Técnicos\n Medidas:\n -A:68cm\n -L:35cm\n -C:40cm\n -Peso: 10kg\n -Eficiência: 98%\n -Conexão de 100mm, (compatível com tubos de PVC de 100mm)\n -Fixação por 4 parafusos de 10mm(incluso)\n -Fabricado em Chapa de ferro de 0,9mm" 
                 },
                 {
-                    "size": 75, //mm
+                    "size": 75,
                     "images": [
                         "main",
                         "bg_1",
