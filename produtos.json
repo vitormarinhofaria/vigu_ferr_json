@@ -2,7 +2,7 @@
     "produtos": [
         {
             "id": 1,
-            "display_name": "Coletor De Pó Ciclone Separador",
+            "displayName": "Coletor De Pó Ciclone Separador",
             "description": "Separador de pó ciclone é possível usar em diversas situações, tais como, sistema de coleta de pó em marcenarias, serralherias, lava jato, centrais de limpezas, e outros segmentos de necessitem de coleta de pó ou partículas, podendo também ser usado em ferramentas como, serra circular, serra de bancada, esquadrejadeira, CNC, tupia, lixadeira, esmeriladeiras, plaina ou desengrosso e demais equipamentos.",
             "traits": [
                 "Fabricação Brasileira.",
